@@ -154,12 +154,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _isAnimated: 0
   _isUpdateByKey: 0
-  _animationInterval: 1
+  _animationInterval: 0.1
   _pointsAsset: {fileID: 4900000, guid: 3241e7e2ff2a4c24db50a5be06c72b74, type: 3}
-  _triangleIndex: 0
+  _pointsIndex: 0
   _rotation: 0
-  _isGenerateRandomPoints: 0
-  _numberOfPoints: 100
+  _isGenerateRandomPoints: 1
+  _numberOfPoints: 10
   _range: 1
   _showNumberOfPoints: 0
 --- !u!4 &11501658
